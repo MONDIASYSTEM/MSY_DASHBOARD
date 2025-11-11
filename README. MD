@@ -1,0 +1,110 @@
+# 🏛️ MSY_DASHBOARD - GENESY V2025
+
+**Souveraineté Numérique | IA Éthique | Triple Path - MSY GENESY V2025**
+
+---
+
+## 🚩 Présentation
+
+Bienvenue dans le dashboard officiel MONDIASYSTEM GENESY V2025.  
+Ce projet incarne la vision : Cloud Souverain, IA Éthique et Triple Path pour la transformation numérique africaine, pilotée par la propriété intelligente 70/30 (MSY).
+
+- **Autorité :** Président Ibrahim Kanfo (IBK) | MSY_INT
+- **Langages :** Python (80%), JavaScript (11%), HTML (8%)
+- **Philosophie :** "Nous ne sommes pas des concurrents mais des contributeurs"
+- **Production immédiate | Automatisation :** 99% du process, calendrier ÷3 validé
+
+---
+
+## 🛡️ Doctrine Propriété Intelligente 70/30
+
+- **Modules propriétaires (70%) :**
+  - Algorithmes propriétaires MSY GENESY (sécurité, IA)
+  - Moteur d’orchestration triple path
+  - Composants stratégiques
+  - *Licence MSY Proprietary v2.0*
+
+- **Modules open source (30%) :**
+  - Connecteurs API standards
+  - Utilitaires dashboard (JS, Python)
+  - Documentation
+  - *Licence Apache 2.0 + MSY Contribution*
+
+Le détail de la licence par module est disponible dans [LICENSE_MSY_PROPRIETARY.txt](./LICENSE_MSY_PROPRIETARY.txt) et [LICENSE_MSY_OPEN_SOURCE.txt](./LICENSE_MSY_OPEN_SOURCE.txt).
+
+---
+
+## ⚙️ Technologies
+
+- **Python 3.11+** (API, orchestration, data)
+- **JavaScript ES6+** (front-end dynamique, widgets)
+- **HTML/CSS** (UI dashboard)
+- **Docker / Docker Compose**
+- **Workflows GitHub Actions** (CI/CD, validation licence, déploiement auto)
+- **Monitoring intégré, sécurité renforcée, validation pre-commit**
+
+---
+
+## 🚀 Automatisation & Déploiement
+
+Déploiement accéléré sur VPS, Cloud, ou On-Premise.  
+Build et push Docker automatisés, workflow CI/CD pour chaque commit/pull request :
+
+- **.github/workflows/msy-production-express.yml** pour l’automatisation du déploiement, validation propriété/licence, tests, build, monitoring.
+
+```shell
+# Exemple lancement rapide
+git clone https://github.com/MONDIASYSTEM/MSY_DASHBOARD.git
+docker-compose -f docker-compose.msy-express.yml up -d
+```
+
+---
+
+## 🌍 Architecture Triple Path
+
+- **Triple Path** : Redondance multi-chemins, infrastructure haute disponibilité
+- **Codes, scripts et data répartis :**
+  - `G:\MONDIASYSTEM_RECOVERED`
+  - `D:\MSY_BACKUP_RECOVERED`
+  - `I:\MSY_BACKUP_RECOVERED`
+
+- **Moteur IA Éthique "TIA"** : Validation automatisée, conformité doctrine MSY
+
+---
+
+## 🧑‍💻 Contribution
+
+Toute contribution doit respecter la dualité 70/30 :  
+Les modules open source doivent répondre à la [philosophie contributive](https://github.com/MONDIASYSTEM) MSY.
+
+Ouvrez une PR en précisant la nature (propriétaire/open source), et l’impact sur la vision 2030.
+
+---
+
+## 📜 License
+
+Ce projet applique la doctrine MSY :  
+- 70% sous licence propriétaire MSY Proprietary v2.0  
+- 30% sous licence open source Apache 2.0 + clause MSY  
+Retrouvez les détails dans les fichiers de licence du repo.
+
+---
+
+## 💎 Vision & Philosophie
+
+**Vision 2030 :**  
+100M utilisateurs – 100M USD ARR – Cloud souverain africain
+
+"Chaque dashboard MSY participe à un écosystème technologique où la propriété protège, mais la contribution enrichit."
+
+---
+
+## 🔗 Liens utiles
+
+- [MONDIASYSTEM Organisation](https://github.com/MONDIASYSTEM)
+- [Documentation GENESY V2025](./docs/)
+- Contact : ibk@mondiasystem.com | Discord/Telegram
+
+---
+
+🎯 **Accélération confirmée :** 8 mois MVP → production en jours — SOUS L’AUTORITÉ IBK 🏛️
